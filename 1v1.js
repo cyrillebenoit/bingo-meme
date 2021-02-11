@@ -1,7 +1,3 @@
-var bingoGenerator = require("./generators/generator_bases/srl_generator_v5.js");
-
-var thisVersion = "v3 beta 9";
-
 var bingoList = [];
 bingoList[1] = [
 { name: "11 Delfino Blue Coins"},
