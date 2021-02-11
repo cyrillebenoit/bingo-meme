@@ -1,3 +1,4 @@
+;
 var bingoList = [];
 bingoList[1] = [
 { name: "11 Delfino Blue Coins"},
