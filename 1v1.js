@@ -156,7 +156,7 @@ bingoList[23] = [
 { name: "Pianta 6 OR Ricco 8"},
 { name: "1 Shadow Mario"},
 { name: "Pianta SM"},
-{ name: "2 Piantissimos"},
+{ name: "Piantissimo REMATCH"},
 { name: "Sand Bird Blues OR Eel Blues"}
 ];
 bingoList[24] = [
